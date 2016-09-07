@@ -1,4 +1,4 @@
-Name: 
+Name: Ambar
  Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Food: Chocolate
+ Favorite Candy: Chocolate
